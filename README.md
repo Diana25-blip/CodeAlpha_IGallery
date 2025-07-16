@@ -1,8 +1,9 @@
 # CodeAlpha_IGallery
 A responsive and visually appealing image gallery built with HTML, CSS, and JavaScript. This project allows users to explore a collection of images presented in a modern grid layout. Designed for performance and aesthetic clarity across all devices.
+ 
  Live Demo
 🔗 View Live
-(Replace with your actual GitHub Pages link once deployed)
+(https://diana25-blip.github.io/CodeAlpha_IGallery/)
 
 #Features
 1.Fully responsive layout
